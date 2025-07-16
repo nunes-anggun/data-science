@@ -51,6 +51,7 @@ To run the dashboard:
 
 ```bash
 streamlit run hdbscan_dashboard.py
+```
 
 ## How to Reproduce
 
